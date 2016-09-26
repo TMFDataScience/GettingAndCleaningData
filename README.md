@@ -6,7 +6,13 @@ This README.MD
 The required script run_analysis.R
 The codebook for the script, CODEBOOK.MD
 
-The codebook contains details of the variables used, and the method of running the script
+## Codebook
+
+The codebook contains details of the variables used and other technical details.
+
+## Scripts created
+
+Only one script is required, namely run_analysis.R. This can be run from the command line or within the R environment as a standard R script.
 
 ## References
 
