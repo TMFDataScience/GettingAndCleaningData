@@ -14,6 +14,14 @@ The codebook contains details of the variables used and other technical details.
 
 Only one script is required, namely run_analysis.R. This can be run from the command line or within the R environment as a standard R script.
 
+## Tidt Data Set
+
+Given the open-ended nature of the assignment, it has been left to the student to determine the nature of the final data set. I have taken the decision to provide the data in a narrow format, i.e. with each instance of the variable/subject/activity as an observation. This in my view fits the main criteria for a tidy data set, as set out in Hadley Wickham's paper on Tidy Data (http://vita.had.co.nz/papers/tidy-data.pdf), namely:
+
+* Each variable forms a column (in this case the variables I have defined are activity, subject and variable)
+* Each observation forms a row (i.e. each subject/activity/variable combination)
+* Each type of observational unit forms a table (delivered as one output table)
+
 ## References
 
 Acknowledgment is given to the following publication:
